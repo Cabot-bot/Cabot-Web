@@ -5,7 +5,7 @@
 <br />
 <p align="center">
     <a href="https://i.ibb.co/YkwPRzF/redise-o8.png">
-    <img src="https://i.ibb.co/YkwPRzF/redise-o8.png" alt="Logo" width="600" height="200">
+    <img src="https://i.ibb.co/YkwPRzF/redise-o8.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Cabot</h3>
