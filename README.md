@@ -11,7 +11,7 @@
   <h3 align="center">Cabot</h3>
 
   <p align="center">
-    A friendly occult mouse
+    An occult mouse
     <br />
     <a href="http://cabot-bot.xyz/"><strong> Webite »</strong></a>
     <br />
